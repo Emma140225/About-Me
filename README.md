@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emma!
 
-I'm a **Software Developer Trainee** who began my coding journey just a few months ago, starting with Python.
+I'm a **Software Developer Trainee** who began my coding journey mid 2025, starting with Python.
 
 ## 💻 What I'm Learning
 
