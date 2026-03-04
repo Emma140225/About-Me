@@ -20,7 +20,6 @@ I created an **ASCII-Imagegenerator**—a fun project that turns images into ASC
 ### Calculator
 Another project I built is a small **Calculator**, with the help of GitHub Copilot. It’s a simple tool, but it helped me understand how to structure code, solve practical problems, and introduced me to **Object-Oriented Programming** and **modular systems**.
 
-> _"Every big journey starts with a single line of code."_
 
 ## 📚 About Me
 
@@ -29,10 +28,5 @@ Another project I built is a small **Calculator**, with the help of GitHub Copil
 - **Growth mindset:** Always looking for new skills and ways to improve.
 - **Currently in training:** My training as a Software Developer will continue for about 2 years.
 
-## 🌱 What’s Next?
-
-I’m excited to explore new Python projects and expand into areas like web development, automation, and data science. Each step brings me closer to becoming a versatile developer!
-
----
 
 Thanks for visiting my profile! Check out my repositories and follow along as I learn and build.
