@@ -7,6 +7,7 @@ I'm a **Software Developer Trainee** who began my coding journey mid 2025, start
 - **Python:** My starting point into the world of programming!
 - **Problem Solving:** I love tackling new coding challenges every day.
 - **Expanding Horizons:** Over the next two years of my training, I plan to learn:
+  - **C#**
   - **C++**
   - **HTML**
   - **JavaScript**
@@ -24,9 +25,9 @@ Another project I built is a small **Calculator**, with the help of GitHub Copil
 ## 📚 About Me
 
 - **Problem solver:** I enjoy the part of coding and figuring out how I can solve a problem.
+- **Automation:** I enjoy working with hardware. Seeing how my code actually makes things happen gives me a sense of satisfaction.
 - **Curious learner:** I love exploring how things work and turning ideas into code.
 - **Growth mindset:** Always looking for new skills and ways to improve.
-- **Currently in training:** My training as a Software Developer will continue for about 2 years.
 
 
 Thanks for visiting my profile! Check out my repositories and follow along as I learn and build.
