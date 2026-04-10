@@ -21,6 +21,9 @@ I created an **ASCII-Imagegenerator**—a fun project that turns images into ASC
 ### Calculator
 Another project I built is a small **Calculator**, with the help of GitHub Copilot. It’s a simple tool, but it helped me understand how to structure code, solve practical problems, and introduced me to **Object-Oriented Programming** and **modular systems**.
 
+### More
+I'm currently working on a small management tool to manage my parents properties and apartments.
+
 
 ## 📚 About Me
 
