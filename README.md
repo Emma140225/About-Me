@@ -22,7 +22,7 @@ I created an **ASCII-Imagegenerator**—a fun project that turns images into ASC
 Another project I built is a small **Calculator**, with the help of GitHub Copilot. It’s a simple tool, but it helped me understand how to structure code, solve practical problems, and introduced me to **Object-Oriented Programming** and **modular systems**.
 
 ### Mini_Game
-A small **Battle Game**, where a Warriot and a Fairy fight against each other. It was my first real C#-Program. It thought me a lot about how Objects interact with each other and how they can inherit Attributes and Methods from other Classes.
+A small **Battle Game**, where a `Warrior` and a `Fairy` fight against each other. It was my first real C#-Program. It thought me a lot about how Objects interact with each other and how they can inherit Attributes and Methods from other Classes.
 
 ## About Me
 
