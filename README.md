@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Emma!
+# Hi, I'm Emma!
 
 I'm a **Software Developer Trainee** who began my coding journey mid 2025, starting with Python.
 
-## 💻 What I'm Learning
+## What I'm Learning
 
 - **Python:** My starting point into the world of programming!
 - **Problem Solving:** I love tackling new coding challenges every day.
@@ -13,7 +13,7 @@ I'm a **Software Developer Trainee** who began my coding journey mid 2025, start
   - **JavaScript**
   - ...and many more!
 
-## 🚀 Projects
+## Projects
 
 ### ASCII-Imagegenerator
 I created an **ASCII-Imagegenerator**—a fun project that turns images into ASCII art using Python. It taught me a lot about working with tkinter and creative coding.
@@ -21,11 +21,10 @@ I created an **ASCII-Imagegenerator**—a fun project that turns images into ASC
 ### Calculator
 Another project I built is a small **Calculator**, with the help of GitHub Copilot. It’s a simple tool, but it helped me understand how to structure code, solve practical problems, and introduced me to **Object-Oriented Programming** and **modular systems**.
 
-### More
-I'm currently working on a small management tool to manage my parents properties and apartments.
+### Mini_Game
+A small **Battle Game**, where a Warriot and a Fairy fight against each other. It was my first real C#-Program. It thought me a lot about how Objects interact with each other and how they can inherit Attributes and Methods from other Classes.
 
-
-## 📚 About Me
+## About Me
 
 - **Problem solver:** I enjoy the part of coding and figuring out how I can solve a problem.
 - **Automation:** I enjoy working with hardware. Seeing how my code actually makes things happen gives me a sense of satisfaction.
