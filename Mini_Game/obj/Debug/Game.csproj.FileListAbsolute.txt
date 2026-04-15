@@ -1,0 +1,14 @@
+C:\Development\C#\Game\bin\Debug\Game.exe.config
+C:\Development\C#\Game\bin\Debug\Game.exe
+C:\Development\C#\Game\bin\Debug\Game.pdb
+C:\Development\C#\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Development\C#\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Development\C#\Game\obj\Debug\Game.exe
+C:\Development\C#\Game\obj\Debug\Game.pdb
+C:\Development\C#\Game - Eigen\bin\Debug\Game.exe.config
+C:\Development\C#\Game - Eigen\bin\Debug\Game.exe
+C:\Development\C#\Game - Eigen\bin\Debug\Game.pdb
+C:\Development\C#\Game - Eigen\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Development\C#\Game - Eigen\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Development\C#\Game - Eigen\obj\Debug\Game.exe
+C:\Development\C#\Game - Eigen\obj\Debug\Game.pdb

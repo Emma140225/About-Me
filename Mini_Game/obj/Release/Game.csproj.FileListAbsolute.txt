@@ -1,0 +1,7 @@
+C:\Development\C#\Game - Eigen\bin\Release\Game.exe.config
+C:\Development\C#\Game - Eigen\bin\Release\Game.exe
+C:\Development\C#\Game - Eigen\bin\Release\Game.pdb
+C:\Development\C#\Game - Eigen\obj\Release\Game.csproj.AssemblyReference.cache
+C:\Development\C#\Game - Eigen\obj\Release\Game.csproj.CoreCompileInputs.cache
+C:\Development\C#\Game - Eigen\obj\Release\Game.exe
+C:\Development\C#\Game - Eigen\obj\Release\Game.pdb
