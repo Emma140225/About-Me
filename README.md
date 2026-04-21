@@ -11,7 +11,7 @@ I'm a **Software Developer Trainee** who began my coding journey mid 2025, start
   - **C++**
   - **HTML**
   - **JavaScript**
-  - ...and many more!
+  - ...and more!
 
 ## Projects
 
