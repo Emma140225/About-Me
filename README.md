@@ -1,35 +1,38 @@
-# Hi, I'm Emma!
+# Hi, I'm Emma! 👋
 
-I'm a **Software Developer Trainee** who began my coding journey mid 2025, starting with Python.
+I'm a **Software Developer Trainee** (Anwendungsentwicklung). I started my coding journey in mid-2025 with Python and have since expanded into C#, desktop application development, and hardware projects.
 
-## What I'm Learning
+---
 
-- **Python:** My starting point into the world of programming!
-- **Problem Solving:** I love tackling new coding challenges every day.
-- **Expanding Horizons:** Over the next two years of my training, I plan to learn:
-  - **C#**
-  - **C++**
-  - **HTML**
-  - **JavaScript**
-  - ...and more!
+## 🛠️ Tech Stack & Focus
 
-## Projects
+- **Languages:** C#, Python
+- **Frameworks & Concepts:** Object-Oriented Programming (OOP), WPF, Unit Testing (NUnit), Regular Expressions
+- **Hardware & Automation:** Raspberry Pi, Microcontrollers, Local Scripting
+- **Web Basics:** HTML, JavaScript (currently learning)
 
-### ASCII-Imagegenerator
-I created an **ASCII-Imagegenerator**—a fun project that turns images into ASCII art using Python. It taught me a lot about working with tkinter and creative coding.
+---
 
-### Calculator
-Another project I built is a small **Calculator**, with the help of GitHub Copilot. It’s a simple tool, but it helped me understand how to structure code, solve practical problems, and introduced me to **Object-Oriented Programming** and **modular systems**.
+## 🚀 Projects
 
-### Mini_Game
-A small **Battle Game**, where a `Warrior` and a `Fairy` fight against each other. It was my first real C#-Program. It thought me a lot about how Objects interact with each other and how they can inherit Attributes and Methods from other Classes.
+### 🔨 File Name Sanitizer (Dateinamen-Bereiniger)
+A **C# WPF application** built to clean up and standardize messy file names automatically using Regular Expressions. 
+* Focused on clean WPF UI structure, string processing, and automated unit testing with **NUnit**.
 
-## About Me
+### ⚔️ C# Mini-RPG / Battle System
+A text-based console RPG built to deepen my understanding of object-oriented concepts like **abstract classes**, **inheritance**, **method overloading**, and **class interaction**.
 
-- **Problem solver:** I enjoy the part of coding and figuring out how I can solve a problem.
-- **Automation:** I enjoy working with hardware. Seeing how my code actually makes things happen gives me a sense of satisfaction.
-- **Curious learner:** I love exploring how things work and turning ideas into code.
-- **Growth mindset:** Always looking for new skills and ways to improve.
+### 🖼️ ASCII Image Generator
+A **Python** application using `tkinter` that converts images into ASCII art. This project was my entry point into handling image data and building simple graphical user interfaces.
 
+---
 
-Thanks for visiting my profile! Check out my repositories and follow along as I learn and build.
+## 📌 About My Approach
+
+- I enjoy practical problem-solving—taking a real workflow problem and writing code to fix it.
+- I like working at the intersection of software and physical components (Raspberry Pi / microcontrollers).
+- I focus on building solid fundamentals: clean object-oriented architecture, writing reliable tests, and understanding how components interact.
+
+---
+
+📬 Feel free to explore my repositories!
